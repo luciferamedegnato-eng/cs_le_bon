@@ -1,0 +1,29 @@
+PHOTOS DU SITE cs-lebon.com
+===========================
+Déposez ici les photos téléchargées depuis https://cs-lebon.com/ (clic droit > Enregistrer l'image sous),
+en gardant EXACTEMENT les noms de fichiers ci-dessous. Puis lancez « npm run build » : le dossier est copié dans dist/.
+
+Fichiers attendus :
+DSC_0049-1024x681.jpg
+DSC_0056-1024x681.jpg
+DSC_0063-1024x681.jpg
+DSC_0071-1024x681.jpg
+DSC_0073-1024x681.jpg
+DSC_0081-1024x681.jpg
+DSC_0082-1-1024x681.jpg
+DSC_0095-1024x681.jpg
+DSC_0107-1024x681.jpg
+DSC_0241-scaled.jpg
+DSC_0268-1024x681.jpg
+DSC_0282-1024x681.jpg
+DSC_0287-1024x681.jpg
+DSC_0293-1024x681.jpg
+DSC_0302-1024x681.jpg
+DSC_0684-1024x722.jpg
+DSC_0832-1024x722.jpg
+DSC_0836-1024x722.jpg
+DSC_0852-1024x722.jpg
+DSC_0854.jpg
+cropped-logo-150-x-147.jpg
+
+Astuce : si une photo n'est pas ici, le site essaie la copie en ligne de cs-lebon.com, sinon affiche le dessin à la craie.
